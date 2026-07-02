@@ -1,0 +1,6 @@
+{
+  "name": "Arbison 15th Birthday",
+  "description": "A cinematic, luxury birthday invitation for Arbison Yonghang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
